@@ -7,5 +7,5 @@ There is also fully working TIS-100 compiler and decompiler (rela.tis100emu.Test
 
 ## What is TIS-100?
 
-http://www.zachtronics.com/tis-100/
-https://store.steampowered.com/app/370360/TIS100/
+* http://www.zachtronics.com/tis-100/
+* https://store.steampowered.com/app/370360/TIS100/
